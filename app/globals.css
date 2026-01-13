@@ -2,12 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: 222.2 84% 4.9%;
-  --foreground: 210 40% 98%;
-}
-
 body {
-  background-color: #0f172a; /* Warna Slate-900 agar langsung gelap */
+  background-color: #0f172a;
   color: white;
 }
