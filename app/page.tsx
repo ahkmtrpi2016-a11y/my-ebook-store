@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from 'react';
 import { ShoppingCart, BookOpen, Download, Star, ChevronRight, X, Trash2, CheckCircle, Youtube, PlayCircle, Users, Award } from 'lucide-react';
 
