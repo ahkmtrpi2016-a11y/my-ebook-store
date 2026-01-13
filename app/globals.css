@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 :root {
-  --background: 222.2 84% 4.9%; /* Ini warna gelapnya */
+  --background: 222.2 84% 4.9%;
   --foreground: 210 40% 98%;
+}
+
+body {
+  background-color: #0f172a; /* Warna Slate-900 agar langsung gelap */
+  color: white;
 }
